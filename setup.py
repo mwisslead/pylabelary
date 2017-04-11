@@ -1,7 +1,7 @@
 from setuptools import setup
 
 def main():
-    VERSION='1.0.0rc1'
+    VERSION='1.0.1'
 
     setup(
         name='labelary',
